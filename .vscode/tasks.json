@@ -20,6 +20,18 @@
       "script": "build",
       "path": "samples/solar-system/",
       "problemMatcher": []
+    },
+    {
+      "type": "npm",
+      "script": "build",
+      "path": "samples/chess-game/",
+      "problemMatcher": []
+    },
+    {
+      "type": "npm",
+      "script": "clean",
+      "path": "samples/chess-game/",
+      "problemMatcher": []
     }
   ]
 }
